@@ -1,0 +1,14 @@
+2025-07-25 09:46:58,959 - INFO - Database tables created successfully
+2025-07-25 09:46:58,964 - INFO - Starting database integrity fix...
+2025-07-25 09:46:58,967 - INFO - Fixed 0 NULL/empty categories
+2025-07-25 09:46:58,968 - INFO - Fixed 0 NULL/empty metal types
+2025-07-25 09:46:58,968 - INFO - Fixed 0 NULL/empty stone types
+2025-07-25 09:46:58,968 - INFO - Fixed 0 NULL descriptions
+2025-07-25 09:46:58,969 - INFO - Fixed 0 NULL/empty names
+2025-07-25 09:46:58,969 - INFO - Fixed 0 NULL prices
+2025-07-25 09:46:58,970 - INFO - Fixed 0 NULL costs
+2025-07-25 09:46:58,970 - INFO - Fixed 0 NULL weights
+2025-07-25 09:46:58,970 - INFO - Fixed 0 NULL stock quantities
+2025-07-25 09:46:58,971 - INFO - Fixed 0 NULL shop quantities
+2025-07-25 09:46:58,971 - INFO - Database integrity fix completed! Total fixes: 0
+2025-07-25 09:46:58,971 - INFO - ✅ All NULL values have been fixed!

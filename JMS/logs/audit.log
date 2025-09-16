@@ -1,0 +1,9 @@
+2025-06-13 21:16:05,703 - INFO - Data exported to: exports\export_20250613_211605.csv
+2025-06-13 21:16:21,744 - ERROR - Import failed: UNIQUE constraint failed: users.id
+2025-06-13 21:16:25,405 - INFO - Data exported to: exports\export_20250613_211625.json
+2025-06-13 21:16:29,997 - INFO - Data imported from: C:\Users\Tsetso\Documents\GitHub\Jewelery-Management-Software - Cursor\Jewelery-Management-Software-Cursor\exports\export_20250613_211625.json
+2025-08-27 17:18:59,079 - INFO - Data exported to: test_final.json
+2025-08-27 17:18:59,086 - INFO - Data exported to: test_final.csv
+2025-08-27 17:19:50,798 - INFO - Data exported to: test_export_final.json
+2025-08-27 17:19:50,806 - INFO - Data exported to: test_export_final.csv
+2025-08-29 19:03:23,497 - INFO - Database backup created: backups\backup_20250829_190323.db

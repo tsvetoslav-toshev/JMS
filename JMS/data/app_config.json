@@ -1,0 +1,49 @@
+{
+  "app": {
+    "version": "1.0.0",
+    "theme": "dark",
+    "language": "bg",
+    "auto_save": true,
+    "backup_on_startup": false
+  },
+  "database": {
+    "path": "data/jewelry.db",
+    "backup_interval": 24,
+    "max_backups": 10
+  },
+  "barcode": {
+    "format": "Code128",
+    "width": 43.4,
+    "height": 25.4,
+    "dpi": 300,
+    "include_text": true
+  },
+  "printing": {
+    "default_printer": "Citizen CLP-631",
+    "label_size": "43.4x25.4mm",
+    "print_preview": true
+  },
+  "ui": {
+    "window_state": "maximized",
+    "show_tooltips": true,
+    "auto_refresh": true,
+    "refresh_interval": 30
+  },
+  "currency": {
+    "primary": "EUR",
+    "secondary": "BGN",
+    "exchange_rate": 1.956,
+    "show_both": true
+  },
+  "validation": {
+    "strict_barcode": true,
+    "min_price": 0.01,
+    "max_price": 100000,
+    "min_weight": 0.1,
+    "max_weight": 10000
+  },
+  "_metadata": {
+    "created": "2025-07-24T00:57:36.237534",
+    "version": "1.0.0"
+  }
+}

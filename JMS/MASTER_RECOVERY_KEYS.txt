@@ -1,0 +1,71 @@
+JEWELRY MANAGEMENT SYSTEM - MASTER RECOVERY KEYS
+============================================================
+Generated: 2025-07-23 18:20:36
+Total Keys: 50
+============================================================
+
+INSTRUCTIONS FOR DEVELOPER:
+• Each key can only be used ONCE
+• When client forgets password, give them ONE key
+• Client enters key in 'Forgot Password' dialog
+• Key resets password to '0000' and becomes invalid
+• Keep this file secure and private
+
+============================================================
+MASTER RECOVERY KEYS:
+============================================================
+
+ 1. JWL-2R39-2C86-HWBH
+ 2. JWL-35XV-NL3V-5BZP
+ 3. JWL-4LFS-WDJL-9NRB
+ 4. JWL-4LJB-KCHU-GYRU
+ 5. JWL-4PWW-SJ5H-2UVT
+ 6. JWL-5AAV-MXMD-5N2D
+ 7. JWL-5EJZ-KAUG-SYY3
+ 8. JWL-6KM5-8GEM-BTTP
+ 9. JWL-78VB-FD3M-F8C3
+10. JWL-7HYH-5DTP-M9N3
+11. JWL-7Q5D-L2EU-23PS
+12. JWL-7Y59-4PLN-ME3E
+13. JWL-AXCH-8BG7-VPNZ
+14. JWL-B6EN-E5MK-8DZJ
+15. JWL-BLB2-TUQJ-ZQFR
+16. JWL-BPP7-DS3E-BJEQ
+17. JWL-BY7Q-RW6G-64VH
+18. JWL-CRDJ-P2L2-762X
+19. JWL-CX2Y-P5A9-TFRM
+20. JWL-DXS7-GL7N-7GWN
+21. JWL-EECC-L46Z-3766
+22. JWL-EGHE-LPRV-T6C2
+23. JWL-EWNQ-NUE4-2ADW
+24. JWL-F5C6-HLY9-SF43
+25. JWL-F66U-YENX-V2GE
+26. JWL-FNL4-EDW9-YTEM
+27. JWL-GBFT-TH6F-7LM6
+28. JWL-HUUE-NFK2-3W8Y
+29. JWL-JALD-7G6V-JW56
+30. JWL-JBZH-M73D-2XJY
+31. JWL-KWYR-GN7F-RLA3
+32. JWL-MDK3-NXWP-VJZH
+33. JWL-N65W-SNMA-DAPE
+34. JWL-NKVY-X658-6X4S
+35. JWL-NTTW-BUGQ-QTRQ
+36. JWL-P4PV-23QR-9JKL
+37. JWL-P978-6LDX-8GD9
+38. JWL-PAUN-X2H3-VHEU
+39. JWL-PP9D-39DD-D8LH
+40. JWL-QDFS-ZGZQ-6APQ
+41. JWL-TF59-JCTU-ASCW
+42. JWL-U2C9-XM7K-9S6G
+43. JWL-UHJL-K6HT-J35D
+44. JWL-UZP3-R7Z9-58F5
+45. JWL-W35G-MZJC-CF6V
+46. JWL-WG72-N4JU-Y9HD
+47. JWL-WH5B-J6K4-BWVW
+48. JWL-WWV4-NP6Q-PRB6
+49. JWL-XB79-KVWK-JUYK
+50. JWL-YX4B-F46V-EYSF
+
+============================================================
+END OF KEYS - KEEP THIS FILE SECURE!
+============================================================

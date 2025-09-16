@@ -1,0 +1,29 @@
+# GUI Framework
+PyQt6>=6.4.0
+
+# Image Processing and Computer Vision
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Barcode and QR Code Generation/Scanning
+python-barcode>=0.15.1
+pyzbar>=0.1.9
+qrcode>=7.4.0
+
+# Data Processing and Excel Support
+pandas>=2.0.0
+openpyxl>=3.1.0
+numpy>=1.24.0
+
+# Security
+bcrypt>=4.0.0
+
+# Reporting and PDF Generation
+reportlab>=4.0.0
+matplotlib>=3.7.0
+
+# Windows-specific dependencies (for printing and system integration)
+pywin32>=306;platform_system=="Windows"
+
+# Development and Optional Dependencies
+# Note: tkinter is included with Python standard library 
