@@ -92,12 +92,13 @@ The application features **7 main tabs**:
 - User access controls
 - Secure backup encryption
 
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Login.PNG)
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Add%20item.PNG)
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Warehouse.PNG)
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Load%20shops.PNG)
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Sales.PNG)
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Audit.PNG)
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Database.PNG)
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Password%20change%20and%20System%20restart.PNG)
-![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Guide.PNG)
+### Preview of the software:
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Login.PNG)
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Add%20item.PNG)
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Warehouse.PNG)
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Load%20shops.PNG)
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Sales.PNG)
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Audit.PNG)
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Database.PNG)
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Password%20change%20and%20System%20restart.PNG)
+## ![image alt](https://github.com/tsvetoslav-toshev/JMS/blob/da0f9848456dc88eb0f312226c172cb69a45aa4c/Guide.PNG)
